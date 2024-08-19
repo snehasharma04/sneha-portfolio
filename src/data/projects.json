@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Drawing App",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn HTML,CSS & JS.",
+    "skills": ["HTML", "CSS", "JS"],
+    "demo": "https://snehasharma04.github.io/drawing-app/",
+    "source": "https://github.com/snehasharma04/drawing-app.git"
+  },
+  {
+    "title": "Bakery Shop",
+    "imageSrc": "projects/project.png",
+    "description": "This is a HTML,CSS project for a bakery shop website UI.",
+    "skills": ["HTML", "CSS"],
+    "demo": "https://snehasharma04.github.io/bakery-shop/",
+    "source": "https://github.com/snehasharma04/bakery-shop.git"
+  },
+  {
+    "title": "Simple Portfolio",
+    "imageSrc": "projects/project.png",
+    "description": "Simple portfolio made using HTML,CSS & JS.",
+    "skills": ["HTML", "CSS","JS"],
+    "demo": "https://snehasharma04.github.io/portfolio/",
+    "source": "https://github.com/snehasharma04/portfolio.git"
+  }
+]
